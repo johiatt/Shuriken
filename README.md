@@ -9,3 +9,11 @@ Basic follow AI with animated flipping textures based on relative position to pl
 Video demonstration:
 
 [![Check out the project!](images/youtubeImage.png)](https://www.youtube.com/watch?v=rVmZBdpPIP8&feature=youtu.be)
+
+If you're running 64-bit Windows, you should be able to download the zip and run game.exe from the game folder.
+Run in windowed mode, the game will not self-exit. 
+
+Controls:
+WASD        - move character
+QE          - move camera left and right
+Left Click  - shoot shuriken 
