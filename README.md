@@ -13,7 +13,7 @@ Video demonstration:
 If you're running 64-bit Windows, you should be able to download the zip and run game.exe from the game folder.
 Run in windowed mode, the game will not self-exit. 
 
-Controls:
-WASD        - move character
-QE          - move camera left and right
-Left Click  - shoot shuriken 
+Controls:                                   <br />
+WASD        - move character                <br />
+QE          - move camera left and right    <br />
+Left Click  - shoot shuriken                <br />
