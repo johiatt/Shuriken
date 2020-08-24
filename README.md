@@ -2,8 +2,9 @@
 
 Uses a ray-cast intersection from the mouse to the ground plane to shoot projectiles. <br />
 Basic follow AI with animated flipping textures based on relative position to player. <br />
-
-
+The main purpose of this is to demonstrate the concept of properly controlling 2-D aiming and movement in a 3-D environment. <br />
+This idea was inspired by the game Realm of the Mad God, and similar concepts are used in Enter the Gungeon. <br />
+In essence, I'm casting a ray from the player viewpoint and drawing a flat line from the character to determine the aim point. <br />
 ![](images/unityProject1.png)
 
 Video demonstration:
